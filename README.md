@@ -1,7 +1,3 @@
-<p align="center">
-  <img src=https://i.imgur.com/DLolFpE.gif alt="HELLO WORLD">
-</p>
-
 ##### 🌱 I’m currently learning C
 
 <!--
