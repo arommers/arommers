@@ -1,3 +1,5 @@
+![banner](https://i.imgur.com/yQdXzmb.jpeg)
+
 ##### 🌱 I’m currently learning C
 
 <!--
