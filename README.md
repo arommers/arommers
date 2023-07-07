@@ -1,6 +1,8 @@
 ![banner](https://i.imgur.com/yQdXzmb.jpeg)
 
-##### 🌱 I’m currently learning C
+##### I’m Adri a student at Codam Coding College in Amsterdam 
+  - At Codam I'm currently learning C, C++ and most importantly learning how to learn.
+  - In my free time i'm tangling with Javascript to see if I can set up my own portfolio site
 
 <!--
 **arommers/arommers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
