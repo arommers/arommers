@@ -1,6 +1,6 @@
 ![banner](https://i.imgur.com/yQdXzmb.jpeg)
 
- ## **Navigating my way through the world of software engineering!**
+ ## **"Crafting Bits and Bytes!"**
 
  Hi! I'm Adri a student at the Codam Coding College in Amsterdam  
  
