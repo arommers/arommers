@@ -5,9 +5,13 @@
  Hi! I'm Adri a student at the Codam Coding College in Amsterdam  
  
   - Learning C, C++, and most importantly, learing how to learn.
-  - Currently programming a raycaster through the project named Cub3d
   - In my free time, I'm tangling with Javascript to set up my own portfolio site.
   - Gettin my feet wet in Unity
+
+#### Currently working on:
+- Programming a raycaster through the project 'Cub3d'
+- [CS50's Introduction to Cybersecurity](https://cs50.harvard.edu/cybersecurity/2023/)
+- [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
 
 <p align="center">
    <a href="https://www.linkedin.com/in/adrirommers71475110b">
