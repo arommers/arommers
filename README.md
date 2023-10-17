@@ -14,7 +14,7 @@
   <a href="https://github.com/arommers">
     <img src="https://img.shields.io/badge/Github-FF69B4?logo=Github" alt="Github">
   </a>
-  <a href="https://imgur.com/gallery/xHawSXv(https://i.imgur.com/D5AhCea.gif)">
+  <a href="https://imgur.com/gallery/xHawSXv">
    <img src="https://img.shields.io/badge/OnlyFans-FF69B4?logo=Onlyfans&logoColor=white" alt="OnlyFans">
   </a>
 </p>
