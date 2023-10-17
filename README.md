@@ -1,12 +1,12 @@
 ![banner](https://i.imgur.com/yQdXzmb.jpeg)
 
- ## **"Crafting Bits and Bytes!"**
+ ## "Building Bridges with Bits and Bytes"
 
  Hi! I'm Adri a student at the Codam Coding College in Amsterdam  
  
   - Learning C, C++, and most importantly, learing how to learn.
   - Currently programming a raycaster through the project named Cub3d
-  - In my free time, I'm tangling with Javascript to see if I can set up my own portfolio site.
+  - In my free time, I'm tangling with Javascript to set up my own portfolio site.
   - Gettin my feet wet in Unity
 
 <p align="center">
