@@ -16,11 +16,15 @@
   <a href="mailto:a3.p.rommers@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FF69B4?logo=Gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://github.com/arommers">
-    <img src="https://img.shields.io/badge/Github-FF69B4?logo=Github" alt="Github">
+  <a href="mailto:arommers@student.codam.nl">
+    <img src="https://img.shields.io/badge/mail-FF69B4?logo=42&logoColor=white" alt="mail">
   </a>
   <a href="https://discord.gg/Vxz9z98V">
-    <img src="https://img.shields.io/badge/Discord-FF69B4?logo=Discord&logoColor=white" alt="Discord"></a>
+    <img src="https://img.shields.io/badge/Discord-FF69B4?logo=Discord&logoColor=white" alt="Discord">
+  </a>
+   <a href="https://github.com/arommers">
+    <img src="https://img.shields.io/badge/Github-FF69B4?logo=Github" alt="Github">
+  </a>
   <a href=https://i.imgur.com/D5AhCea.gif>
    <img src="https://img.shields.io/badge/OnlyFans-FF69B4?logo=Onlyfans&logoColor=white" alt="OnlyFans">
   </a>
