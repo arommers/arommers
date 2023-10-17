@@ -2,7 +2,7 @@
 
  ## "Building Bridges with Bits and Bytes"
 
- Hi! I'm Adri a student at the Codam Coding College in Amsterdam  
+ Hi, I'm Adri! A software engeneering student at the Codam Coding College in Amsterdam  
  
   - Learning C, C++, and most importantly, learing how to learn.
   - In my free time, I'm tangling with Javascript to set up my own portfolio site.
