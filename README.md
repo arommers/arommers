@@ -13,7 +13,7 @@
    <a href="https://www.linkedin.com/in/adrirommers71475110b">
     <img src="https://img.shields.io/badge/Linkedin-FF69B4?logo=Linkedin&logoColor=Linkedin" alt="Linkedin">
   </a>
-  <a href="a3.p.rommers@gmail.com">
+  <a href="mailto:a3.p.rommers@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FF69B4?logo=Gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://github.com/arommers">
