@@ -1,9 +1,13 @@
 ![banner](https://i.imgur.com/yQdXzmb.jpeg)
 
  ## **Navigating my way through the world of software engineering!**
+
+ Hi! I'm Adri a student at the Codam Coding College in Amsterdam  
  
-  - At Codam, currently learning C, C++, and most importantly, learning how to learn.
+  - Learning C, C++, and most importantly, learing how to learn.
+  - Currently programming a raycaster through the project named Cub3d
   - In my free time, I'm tangling with Javascript to see if I can set up my own portfolio site.
+  - Gettin my feet wet in Unity
 
 <p align="center">
    <a href="https://www.linkedin.com/in/adrirommers71475110b">
