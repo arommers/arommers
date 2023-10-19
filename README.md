@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/adrirommers71475110b">
+  <a href="https://www.linkedin.com/in/adrirommers71475110b">
     <img src="https://img.shields.io/badge/Linkedin-FF69B4?logo=Linkedin&logoColor=Linkedin" alt="Linkedin">
   </a>
   <a href="mailto:a3.p.rommers@gmail.com">
@@ -28,11 +28,11 @@
   <a href="https://discord.gg/Vxz9z98V">
     <img src="https://img.shields.io/badge/Discord-FF69B4?logo=Discord&logoColor=white" alt="Discord">
   </a>
-   <a href="https://github.com/arommers">
+  <a href="https://github.com/arommers">
     <img src="https://img.shields.io/badge/Github-FF69B4?logo=Github" alt="Github">
   </a>
-  <a href=https://i.imgur.com/D5AhCea.gif>
-   <img src="https://img.shields.io/badge/OnlyFans-FF69B4?logo=Onlyfans&logoColor=white" alt="OnlyFans">
+  <a href="https://i.imgur.com/D5AhCea.gif">
+    <img src="https://img.shields.io/badge/OnlyFans-FF69B4?logo=Onlyfans&logoColor=white" alt="OnlyFans">
   </a>
 </p>
 
