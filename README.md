@@ -15,7 +15,7 @@
 
 ---
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/adrirommers71475110b">
     <img src="https://img.shields.io/badge/Linkedin-FF69B4?logo=Linkedin&logoColor=Linkedin" alt="Linkedin">
   </a>
@@ -34,12 +34,7 @@
   <a href="https://i.imgur.com/D5AhCea.gif">
     <img src="https://img.shields.io/badge/OnlyFans-FF69B4?logo=Onlyfans&logoColor=white" alt="OnlyFans">
   </a>
-</p>
-
-
-
-
-
+</div>
 
 <!--
 **arommers/arommers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
