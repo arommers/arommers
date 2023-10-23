@@ -9,7 +9,7 @@
   - Gettin my feet wet in Unity
 
 #### Currently working on:
-- Programming a raycaster through the project 'Cub3d'
+- Programming a raycaster through the project [Cub3d](https://github.com/arommers/cub3d)
 - [CS50's Introduction to Cybersecurity](https://cs50.harvard.edu/cybersecurity/2023/)
 - [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
 
