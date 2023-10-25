@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/Github-FF69B4?logo=Github" alt="Github">
   </a>
   <a href="https://i.imgur.com/D5AhCea.gif">
-    <img src="https://img.shields.io/badge/OnlyFans-FF69B4?logo=Onlyfans&logoColor=white" alt="OnlyFans">
+    <img src="https://img.shields.io/badge/OnlyFans-FF69B4?logo=Onlyfans&logoColor=white" alt="OnlyFans" target="blank">
   </a>
 </div>
 
