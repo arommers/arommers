@@ -1,6 +1,6 @@
 ![banner](https://i.imgur.com/yQdXzmb.jpeg)
 
- ## "Building Bridges with Bits and Bytes"
+ ## "Some bits of me"
  
  Hello world, I'm Adri! A software engineering student at Codam Coding College in Amsterdam  
  
