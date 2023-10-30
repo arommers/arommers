@@ -1,6 +1,6 @@
 ![banner](https://i.imgur.com/yQdXzmb.jpeg)
 
- ## Some 'bits' on me
+ ## Some 'bits' about me
  
  Hello world, I'm Adri! A software engineering student at Codam Coding College in Amsterdam  
  
