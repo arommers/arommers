@@ -5,7 +5,7 @@
  Hello world, I'm Adri! A software engineering student at Codam Coding College in Amsterdam  
  
   - Learning C, C++, and most importantly, learing how to learn.
-  - In my free time, I'm tangling with Javascript to set up my own portfolio site.
+  - In my free time, I'm tangling with HTML, CSS and Javascript
   - Gettin my feet wet in Unity
 
 #### Currently working on:
