@@ -12,7 +12,7 @@
 - Studying [Docker and Kubernetes](https://github.com/arommers/cub3d](https://cdn.intra.42.fr/pdf/pdf/114601/en.subject.pdf))
 - [Building websites with 'HTML' and 'CSS'](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 - [CS50's Introduction to Cybersecurity](https://cs50.harvard.edu/cybersecurity/2023/)
-- [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
+- [The Complete JavaScript Course 2024: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
 - Making a fitness tracking app [Mapty](https://github.com/arommers/Mapty)
 
 ---
