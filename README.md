@@ -13,7 +13,6 @@
 - [Building websites with 'HTML' and 'CSS'](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 - [CS50's Introduction to Cybersecurity](https://cs50.harvard.edu/cybersecurity/2023/)
 - [The Complete JavaScript Course 2024: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
-- Making a fitness tracking app [Mapty](https://github.com/arommers/Mapty)
 
 ---
 
