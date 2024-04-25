@@ -9,7 +9,7 @@
   - Gettin my feet wet in Unity
 
 #### Currently working on:
-- Studying [Docker and Kubernetes](https://github.com/arommers/Inception))
+- Studying [Docker and Kubernetes](https://github.com/arommers/Inception)
 - [Building websites with 'HTML' and 'CSS'](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 
 ---
