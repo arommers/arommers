@@ -1,6 +1,8 @@
 ![banner](https://i.imgur.com/yQdXzmb.jpeg)
 
-# Hello world, I'm Adri! A software engineering student at Codam Coding College in Amsterdam  
+# Hello world!
+
+Welcome to my portfolio. I'm Adri, a software engineer currently studying C, C++, Javascript adn System Development at Codam Coding College.
  
 ## Some noteworthy Codam projects
  - [Minishell](https://github.com/arommers/minishell) : My own shell based on bash shell
