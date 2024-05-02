@@ -1,16 +1,26 @@
 ![banner](https://i.imgur.com/yQdXzmb.jpeg)
 
- ## Some 'bits' about me
+### Hello world, I'm Adri! A software engineering student at Codam Coding College in Amsterdam  
  
- Hello world, I'm Adri! A software engineering student at Codam Coding College in Amsterdam  
- 
-  - Learning C, C++, and most importantly, learing how to learn.
-  - In my free time, I'm tangling with HTML, CSS and Javascript
-  - Gettin my feet wet in Unity
+#### Some noteworthy Codam projects
+ - [Minishell](https://github.com/arommers/minishell) A recreation of the bash shell for command-line interaction
+ - [So long](https://github.com/arommers/so_long) A simple 2d maze game written in C
+ - [Philosophers](https://github.com/arommers/philosophers) A multithreaded solution to the dining philosophers problem
+ - [CPP](https://github.com/arommers/CPP_Modules) A comprehensive collection of C++ programs, from beginner to expert.
+
+---
+
+#### Some Javascript projects
+ - [Forkify](https://github.com/arommers/Forkify) A recipe management web application
+ - [Bankist](https://github.com/arommers/bankist) A minimalist banking website
+ - [PIG](https://github.com/arommers/Pig_Game) A dice game web app
+ - [Mapty](https://github.com/arommers/Mapty) A workout tracker and visualizer
+
+---
 
 #### Currently working on:
-- Studying [Docker and Kubernetes](https://github.com/arommers/Inception)
-- [Building websites with 'HTML' and 'CSS'](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
+- Getting comfortable with [Docker and Kubernetes](https://github.com/arommers/Inception)
+- Building a [webserver] from scratch in CPP
 
 ---
 
