@@ -22,8 +22,6 @@
 - Getting comfortable with [Docker and Kubernetes](https://github.com/arommers/Inception)
 - Building a [webserver] from scratch in CPP
 
----
-
 <div align="center">
   <a href="https://www.linkedin.com/in/adrirommers71475110b">
     <img src="https://img.shields.io/badge/Linkedin-FF69B4?logo=Linkedin&logoColor=Linkedin" alt="Linkedin">
