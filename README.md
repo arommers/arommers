@@ -5,7 +5,7 @@
 Welcome to my portfolio. I'm Adri, a software engineer currently studying C, C++, Javascript adn System Development at Codam Coding College.
  
 ## Some noteworthy Codam projects
- - [Minishell](https://github.com/arommers/minishell) : My own shell based on bash shell
+ - [Minishell](https://github.com/arommers/minishell) : My own shell based on bash
  - [So long](https://github.com/arommers/so_long) : A simple 2d maze game written in C
  - [Philosophers](https://github.com/arommers/philosophers) : A multithreaded solution to the dining philosophers problem
  - [CPP](https://github.com/arommers/CPP_Modules) : Comprehensive collection of C++ programs, from beginner to expert.
