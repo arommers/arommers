@@ -5,16 +5,16 @@
 Welcome to my portfolio. I'm Adri, a software engineer currently studying C, C++, Javascript adn System Development at Codam Coding College.
  
 ## Some noteworthy Codam projects
- - [Minishell](https://github.com/arommers/minishell) : My own shell based on bash
- - [So long](https://github.com/arommers/so_long) : A simple 2d maze game written in C
- - [Philosophers](https://github.com/arommers/philosophers) : A multithreaded solution to the dining philosophers problem
  - [CPP](https://github.com/arommers/CPP_Modules) : Comprehensive collection of C++ programs, from beginner to expert.
+ - [So long](https://github.com/arommers/so_long) : A simple 2d maze game written in C
+ - [Minishell](https://github.com/arommers/minishell) : My own shell based on bash
+ - [Philosophers](https://github.com/arommers/philosophers) : A multithreaded solution to the dining philosophers problem
 
 ## Some Javascript projects
- - [Forkify](https://github.com/arommers/Forkify) : Recipe management web application
- - [Bankist](https://github.com/arommers/bankist) : Minimalist banking website
  - [PIG](https://github.com/arommers/Pig_Game) : Dice game web app
  - [Mapty](https://github.com/arommers/Mapty) : Workout tracker and visualizer
+ - [Bankist](https://github.com/arommers/bankist) : Minimalist banking website
+ - [Forkify](https://github.com/arommers/Forkify) : Recipe management web application
 
 ## Currently working on:
 - Getting comfortable with [docker and kubernetes](https://github.com/arommers/Inception)
