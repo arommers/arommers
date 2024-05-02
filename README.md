@@ -19,8 +19,8 @@
 ---
 
 #### Currently working on:
-- Getting comfortable with [Docker and Kubernetes](https://github.com/arommers/Inception)
-- Building a [webserver] from scratch in CPP
+- Getting comfortable with [docker and kubernetes](https://github.com/arommers/Inception)
+- Building a [webserver]() from scratch in CPP
 
 <div align="center">
   <a href="https://www.linkedin.com/in/adrirommers71475110b">
