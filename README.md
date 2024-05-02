@@ -19,6 +19,7 @@ Welcome to my portfolio. I'm Adri, a software engineer currently studying C, C++
 ## Currently working on:
 - Getting comfortable with [docker and kubernetes](https://github.com/arommers/Inception)
 - Building a [webserver]() from scratch in CPP
+- Messing around with unity and C#
 
 <div align="center">
   <a href="https://www.linkedin.com/in/adrirommers71475110b">
