@@ -1,24 +1,20 @@
 ![banner](https://i.imgur.com/yQdXzmb.jpeg)
 
-### Hello world, I'm Adri! A software engineering student at Codam Coding College in Amsterdam  
+# Hello world, I'm Adri! A software engineering student at Codam Coding College in Amsterdam  
  
-#### Some noteworthy Codam projects
+## Some noteworthy Codam projects
  - [Minishell](https://github.com/arommers/minishell) : My own shell based on bash shell
  - [So long](https://github.com/arommers/so_long) : A simple 2d maze game written in C
  - [Philosophers](https://github.com/arommers/philosophers) : A multithreaded solution to the dining philosophers problem
  - [CPP](https://github.com/arommers/CPP_Modules) : Comprehensive collection of C++ programs, from beginner to expert.
 
----
-
-#### Some Javascript projects
+## Some Javascript projects
  - [Forkify](https://github.com/arommers/Forkify) : Recipe management web application
  - [Bankist](https://github.com/arommers/bankist) : Minimalist banking website
  - [PIG](https://github.com/arommers/Pig_Game) : Dice game web app
  - [Mapty](https://github.com/arommers/Mapty) : Workout tracker and visualizer
 
----
-
-#### Currently working on:
+## Currently working on:
 - Getting comfortable with [docker and kubernetes](https://github.com/arommers/Inception)
 - Building a [webserver]() from scratch in CPP
 
