@@ -2,7 +2,7 @@
 
 # Hello world!
 
-Welcome to my portfolio. I'm Adri, a software engineer currently studying C, C++, Javascript adn System Development at Codam Coding College.
+Welcome to my portfolio. I'm Adri, a software engineer currently studying C, C++, Javascript and System Development at Codam Coding College.
  
 ## Some noteworthy Codam projects
  - [CPP](https://github.com/arommers/CPP_Modules) : Comprehensive collection of C++ programs, from beginner to expert.
