@@ -2,7 +2,7 @@
 
 # Hello world!
 
-Welcome to my portfolio. I'm Adri, a software engineer currently studying C, C++, Javascript and System Development at Codam Coding College.
+Welcome to my portfolio. I'm Adri, an aspiring, fullstack software engineer studying at Codam Coding College.
  
 ## Some noteworthy Codam projects
  - [CPP](https://github.com/arommers/CPP_Modules) : Comprehensive collection of C++ programs, from beginner to expert.
@@ -19,7 +19,7 @@ Welcome to my portfolio. I'm Adri, a software engineer currently studying C, C++
 ## Currently working on:
 - Getting comfortable with [docker and kubernetes](https://github.com/arommers/Inception)
 - Building a [webserver](https://cdn.intra.42.fr/pdf/pdf/128390/en.subject.pdf) from scratch in CPP
-- Getting the [fundamentals](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/?couponCode=OT50624NEW) down before learning [React](https://www.udemy.com/course/the-ultimate-react-course/?couponCode=OT50624NEW)
+- Mastering [React](https://www.udemy.com/course/the-ultimate-react-course/?couponCode=OT50624NEW)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/adrirommers71475110b">
