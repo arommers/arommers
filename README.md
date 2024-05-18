@@ -17,8 +17,7 @@ Welcome to my portfolio. I'm Adri, an aspiring, fullstack software engineer stud
  - [Forkify](https://github.com/arommers/Forkify) : Recipe management web application
 
 ## Currently working on:
-- Getting comfortable with [docker and kubernetes](https://github.com/arommers/Inception)
-- Building a [webserver](https://cdn.intra.42.fr/pdf/pdf/128390/en.subject.pdf) from scratch in CPP
+- Learning network programming by building a [webserver](https://cdn.intra.42.fr/pdf/pdf/128390/en.subject.pdf) from scratch in CPP
 - Mastering [React](https://www.udemy.com/course/the-ultimate-react-course/?couponCode=OT50624NEW)
 
 <div align="center">
