@@ -10,7 +10,7 @@ Welcome to my portfolio. I'm Adri, an aspiring, fullstack software engineer stud
  - [Minishell](https://github.com/arommers/minishell) : My own shell, based on bash
  - [Philosophers](https://github.com/arommers/philosophers) : A multithreaded solution to the dining philosophers problem
 
-## Some Javascript projects
+## Some Front-end projects
  - [PIG](https://github.com/arommers/Pig_Game) : Dice game web app
  - [Mapty](https://github.com/arommers/Mapty) : Workout tracker and visualizer
  - [Bankist](https://github.com/arommers/bankist) : Minimalist banking website
