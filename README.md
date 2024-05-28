@@ -2,7 +2,7 @@
 
 # Hello world!
 
-Welcome to my portfolio. I'm Adri, an aspiring, fullstack software engineer studying at Codam Coding College.
+Welcome to my portfolio. I'm Adri. An aspiring, fullstack software engineer studying at Codam Coding College.
  
 ## Some noteworthy Codam projects
  - [CPP](https://github.com/arommers/CPP_Modules) : Comprehensive collection of C++ programs, from beginner to expert.
