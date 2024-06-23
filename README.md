@@ -19,6 +19,7 @@ Welcome to my portfolio. I'm Adri. An aspiring, fullstack software engineer stud
 ## Currently working on:
 - Learning network programming by building a [webserver](https://cdn.intra.42.fr/pdf/pdf/128390/en.subject.pdf) from scratch in CPP
 - Mastering [React](https://www.udemy.com/course/the-ultimate-react-course/?couponCode=OT50624NEW)
+- Having daily fun with [Python](https://www.udemy.com/course/100-days-of-code/learn/lecture/23414204?start=75#content)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/adrirommers71475110b">
