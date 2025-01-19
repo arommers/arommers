@@ -3,6 +3,8 @@
 # Hello world!
 
 Welcome to my portfolio. I'm Adri. An aspiring, fullstack software engineer studying at Codam Coding College.
+
+⚠️ I'm currently not very active here, on account of doing an internship and using a different profile for that ⚠️
  
 ## Some noteworthy Codam projects
  - [CPP](https://github.com/arommers/CPP_Modules) : Comprehensive collection of C++ programs, from beginner to expert.
